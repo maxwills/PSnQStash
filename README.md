@@ -8,7 +8,7 @@ Download the folder with the example.
 To run it, do `python runexample.py` in a terminal.
 
 ## C# Example
-The C# example is only available at the moment in the artifact (check your personal email for the link).
+The C# example is only available at the moment in the artifact (check your work or personal email for the link).
 
 ## Pharo Example
 The Pharo example requires SeekerDebugger to run.
